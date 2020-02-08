@@ -1,3 +1,5 @@
 /cpanfile
 /cpanfile.snapshot
 /prereqs
+/.cpanm
+/.dibsignore

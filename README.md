@@ -1,3 +1,13 @@
+# MOST PROBABLY...
+
+... you're looking for [polettix/certificate-example][] instead:
+
+```shell
+docker run --rm -it polettix/certificate-example
+```
+
+If not, read on...
+
 # Certificate Example
 
 This repository allows you to regenerate the [Docker][] image that is

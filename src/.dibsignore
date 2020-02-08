@@ -3,3 +3,4 @@
 /prereqs
 /.cpanm
 /.dibsignore
+*.swp

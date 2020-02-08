@@ -115,7 +115,7 @@ actions:
          - base-layers
          - name: save bundler image
            image_name: *bundler_image_name
-           tags: *bases_reference_tag
+           tags: *base_version_tags
 
    # actual bundling operations "bundle" and "bundle-quick". They
    # produce the same artifact, the quick one skips going through
